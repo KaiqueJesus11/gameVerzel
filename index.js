@@ -42,3 +42,9 @@ const topGear = () => {
 const pacMan = () => {
     window.location.href = "pacman.html";
 }
+
+const mortalKombat = () => {
+    window.location.href = "mortal_kombat.html";
+}
+
+
