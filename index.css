@@ -1,0 +1,19 @@
+.btn {
+    background-color: #4e4b98 !important;
+    color: white;
+    height: 50px;
+}
+.btn :hover{
+    color: white !important;
+}
+.escuro{
+    background-color: black;
+}
+
+.title {
+    color: white;
+}
+
+.link {
+    color: white;
+}
