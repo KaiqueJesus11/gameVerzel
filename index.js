@@ -28,7 +28,7 @@ const sinuca = () => {
 }
 
 const streetFighter = () => {
-    window.location.href = "streetFighter.html";
+    window.location.href = "street_fighter.html";
 }
 
 const tekken = () => {
