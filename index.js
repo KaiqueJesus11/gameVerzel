@@ -38,3 +38,7 @@ const tekken = () => {
 const topGear = () => {
     window.location.href = "top_gear.html";
 }
+
+const pacMan = () => {
+    window.location.href = "pacman.html";
+}
