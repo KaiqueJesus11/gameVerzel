@@ -23,10 +23,6 @@ const marvelVsCampcom = () => {
     window.location.href = "marvel_vs_capcom.html";
 }
 
-const sinuca = () => {
-    window.location.href = "sinuca.html";
-}
-
 const streetFighter = () => {
     window.location.href = "street_fighter.html";
 }
